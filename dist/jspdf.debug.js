@@ -17124,6 +17124,7 @@ var FlateStream = (function() {
 
 })(typeof self !== "undefined" && self || typeof window !== "undefined" && window || undefined);
 
+jsPDF.default = jsPDF;
 return jsPDF;
 
 })));
